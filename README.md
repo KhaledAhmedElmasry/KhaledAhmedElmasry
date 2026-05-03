@@ -1,7 +1,7 @@
-<div align="center">
+
+<h1 align="center">Hey 👋What's Up?<br><div align="center">
   <img src="khaled-elmasry-banner.svg" alt="Khaled Elmasry" />
-</div>
-<h1 align="center">Hey 👋What's Up?<br>I'm Khaled Elmasry</h1>
+</div></h1>
 
 ###
 
