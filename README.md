@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="khaled-elmasry-banner.svg" alt="Khaled Elmasry" />
+</div>
 <h1 align="center">Hey 👋What's Up?<br>I'm Khaled Elmasry</h1>
 
 ###
