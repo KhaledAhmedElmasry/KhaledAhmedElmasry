@@ -1,5 +1,5 @@
 
-<h1 align="center"><br><div align="center">
+<div align="center">
   <img src="khaled-elmasry-banner.svg" alt="Khaled Elmasry" />
 </div></h1>
 
