@@ -2,9 +2,7 @@
 
 
 <!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=200&section=header&text=Khaled%20Elmasry&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20Student%20%40%20GIU&descSize=18&descAlignY=58&animation=fadeIn" alt="Khaled Elmasry" width="100%" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/KhaledAhmedElmasry">
